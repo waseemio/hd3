@@ -1,0 +1,11 @@
+{
+    "name": "social-card-generator",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "vercel dev"
+    },
+    "dependencies": {
+        "uuid": "^9.0.0",
+        "@vercel/node": "^2.15.3"
+    }
+}
